@@ -14,6 +14,7 @@ Aquí te dejo mis redes y alguna información sobre proyectos en los que partici
 
 Ante cualquier duda o sugerencia no dudes en contactar conmigo!
 -->
+<!--
 ### 🚀 ¡Hola, soy Juan López!  
 
 Actualmente soy estudiante de la **Universidad de Málaga** cursando el grado en **Ingeniería Electrónica, Robótica y Mecatrónica** 🤖. También soy parte del equipo **[Roborescue UMA](https://github.com/RoboRescueUMA)** 🏆.  
