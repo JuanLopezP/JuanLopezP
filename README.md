@@ -17,9 +17,8 @@ También colaboro como piloto de drones en algunas sesiones audiovisuales de **S
 
 En mi web documento lo que voy construyendo, las decisiones tomadas y los resultados de cada proyecto:
 
-**[Visitar mi portfolio →](https://juanlopezp.github.io/)**
+**[Visita mi portfolio ](https://juanlopezp.github.io/)**
 
-> Ingeniería aplicada a sistemas reales.
 
 <!--
 The other bio 
