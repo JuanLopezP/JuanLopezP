@@ -1,3 +1,25 @@
+## ¡Hola! Soy Juan López 👋
+
+Estudio **Ingeniería Electrónica, Robótica y Mecatrónica** en la Universidad de Málaga y formo parte del equipo **[STAR UMA](https://github.com/star-uma)**.
+
+Me gusta convertir ideas en sistemas reales combinando electrónica, electricidad, automatización, diseño 3D y software. Mi interés por construir comenzó entre maquinaria agrícola y mecánica, una experiencia práctica que hoy aplico en proyectos como:
+
+* Domótica y automatizaciones con Home Assistant.
+* Servidores domésticos, contenedores y servicios autohospedados.
+* Instalaciones eléctricas y sistemas de control.
+* Diseño y fabricación de baterías para robótica.
+* Drones aplicados a agricultura y proyectos audiovisuales.
+* Soluciones para entornos rurales.
+
+También colaboro como piloto de drones en algunas sesiones audiovisuales de **Santas Gachas**, un proyecto que une música electrónica y territorio rural en Castilla-La Mancha.
+
+### Descubre mis proyectos
+
+En mi web documento lo que voy construyendo, las decisiones tomadas y los resultados de cada proyecto:
+
+**[Visitar mi portfolio →](https://juanlopezp.github.io/)**
+
+> Ingeniería aplicada a sistemas reales.
 
 <!--
 The other bio 
